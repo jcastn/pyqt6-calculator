@@ -36,7 +36,7 @@ class Calculator(QWidget):
 
         tooltips = {
             "⌫": "Delete the last character",
-            "AC": "All Delete everything",
+            "AC": "All Clear",
             "=": "Show the result",
             "┤": "Euclidian division of two numbers (quotient and rest)\nNote : Only one ┤ is allowed per calcul.",
             "√": "Square root\nNote : use it with parentheses : √(n)",
