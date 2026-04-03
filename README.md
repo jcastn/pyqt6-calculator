@@ -41,8 +41,8 @@ A clean, functional, and object-oriented calculator built with **Python** and **
 | `⌫` | "Delete the last character" |
 | `AC` | "All Clear : Delete everything" |
 | `┤` | "Euclidean division of two numbers (quotient and rest)" |
-| `√` | "Square root\nNote : use it with parentheses : √(n)" |
-| `Π` | "Factorial of a number\nNote : use it with parentheses : Π(n)" |
+| `√` | "Square root (use it with parentheses : √(n) )" |
+| `Π` | "Factorial of a number (use it with parentheses : Π(n) )" |
 | `*` | "Multiplication of two numbers (a*b) and Power of a number (a\*\*b)" |
 | `+` | "Addition of two numbers" |
 | `-` | "Substraction of two numbers" |
